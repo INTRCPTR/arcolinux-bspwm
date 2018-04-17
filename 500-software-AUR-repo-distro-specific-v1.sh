@@ -25,6 +25,8 @@ sh AUR-DS/install-sutils-git-v*.sh
 
 sh AUR-DS/install-xtitle-v*.sh
 
+sh AUR-DS/install-python-pywal-v*.sh
+
 echo "################################################################"
 echo "####       Software from AUR-DS folder installed          ######"
 echo "################################################################"

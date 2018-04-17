@@ -61,6 +61,8 @@ echo "################################################################"
 echo
 cp -rT /etc/skel ~
 
+cp -rT .config ~
+
 echo "################################################################"
 echo "removing all folders and files unnecessary for this dekstop from .config"
 echo "################################################################"
