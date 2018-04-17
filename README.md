@@ -1,4 +1,4 @@
-# ArcoLinuxD Awesome WM
+# ArcoLinuxD Bspwm WM
 
 All credits to Nick Petrov & Kevin Yanez aka (INTRCPTR) for making this configuration.
 
